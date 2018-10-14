@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<marquee><h1>gugan NIIT Karur</h1></marquee>
+	<marquee direction="right"><h1>gugan NIIT Karur</h1></marquee>
+	<marquee direction="right" bgcolor="green"><h1>gugan NIIT Karur</h1></marquee>
+	<marquee direction="up" bgcolor="green"><h1>gugan NIIT Karur</h1></marquee>
+	<marquee direction="down" bgcolor="green"><h1>gugan NIIT Karur</h1></marquee>|
+	<marquee behavior="alternate"><h1>gugan NIIT Karur</h1></marquee>
+	<marquee loop=1><h1>gugan NIIT Karur</h1></marquee>
+	<marquee loop=1 scrolldelay="1"><h1>gugan NIIT Karur</h1></marquee>
+	<marquee loop=1 scrolldelay="100"><h1>gugan NIIT Karur</h1></marquee>
+	<marquee loop=1 scrolldelay="1000"><h1>gugan NIIT Karur</h1></marquee>
+	<marquee loop=1 scrolldelay="10"><img src="niit.jpg" width="300"></marquee></img></marquee>
+</body>
+</html>
