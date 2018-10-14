@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<ol>
+			<li>c</li>
+			<li>c++</li>
+			<li>java</li>			
+			<li>vb</li>
+			<li>sql</li>
+
+	</ol>
+	<ol type="I">  <!--  i a A -->
+			<li>c</li>
+			<li>c++</li>
+			<li>java</li>			
+			<li>vb</li>
+			<li>sql</li>
+
+	</ol>
+
+	<ul type="circle">  <!--  disc square -->
+			<li>c</li>
+			<li>c++</li>
+			<li>java</li>			
+			<li>vb</li>
+			<li>sql</li>
+
+	</ul>
+
+</body>
+</html>
