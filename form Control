@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<form name="aaa" method="get" action="456.html">
+		Enter your name:<input type="text" name="t1"></input><br>
+		Enter Password :<input type="Password" name="p1"></input><br>
+		Enter address :<textarea rows="6" cols="25"></textarea><br>
+		select Gender :<input type="radio" name="gener">Male</input><input type="radio" name="gener">FeMale</input><br>
+		select course:
+		<input type="checkbox" name="c1">c</input>
+		<input type="checkbox" name="c1">c++</input>
+		<input type="checkbox" name="c1">java</input>
+		<input type="checkbox" name="c1">vb</input></br>
+		select dob:
+		<select>
+			<option>1</option>
+			<option>2</option>
+			<option>3</option>
+			<option>4</option>
+		</select>
+		<select> <!-- combobox -->
+			<option>jan</option>
+			<option>feb</option>
+			<option>mar</option>
+			<option>apr</option>
+		</select>
+		<select size="5">   <!-- act listbox -->
+			<option>2001</option>
+			<option>2002</option>
+			<option>2003</option>
+			<option>2004</option>
+		</select>
+
+		<input type="button" value="clickme mugil"></input><br>
+		<input type="reset" value="clickme clear"></input><br>
+		<input type="file" name="f1"></input>
+		<input type="submit" value="gugan click me"></input>
+	</form>
+</body>
+</html>
