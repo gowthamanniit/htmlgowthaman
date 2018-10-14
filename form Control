@@ -5,7 +5,7 @@
 </head>
 <body>
 	<form name="aaa" method="get" action="456.html">
-		Enter your name:<input type="text" name="t1"></input><br>
+		Enter your name:<input type="text" name="t1"></input><br>   <!-- required, hidden=true, placeholder="", maxlength -->
 		Enter Password :<input type="Password" name="p1"></input><br>
 		Enter address :<textarea rows="6" cols="25"></textarea><br>
 		select Gender :<input type="radio" name="gener">Male</input><input type="radio" name="gener">FeMale</input><br>
