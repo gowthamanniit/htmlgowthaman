@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+	#first
+	{
+		background-color: green;
+	}
+	.second
+	{
+		background-color: red;		
+	}
+</style>
+</head>
+<body>
+<div id="first">
+	<details>
+		<summary> question : click arrow to view answer :</summary>
+dsklfjdas fdskljf dasklfjdas fjdasklfasdfdjasfjdklsf dsklfj dskfjdklsfjdsklfjdasklfjdasjdklsfj dklsfjdklsfj dklsfjdklsfjdklsfjasklfjdaskl fjsdklf sdklf asdklfjsdklfjsaklfjdklsfjklfjas f dklsjf asdklfjasdklfjdklsfjasdlkfjasdklfjas
+		
+	</details>
+</div>
+<div class="second">
+	<details>
+		<summary> question : click arrow to view answer :</summary>
+dsklfjdas fdskljf dasklfjdas fjdasklfasdfdjasfjdklsf dsklfj dskfjdklsfjdsklfjdasklfjdasjdklsfj dklsfjdklsfj dklsfjdklsfjdklsfjasklfjdaskl fjsdklf sdklf asdklfjsdklfjsaklfjdklsfjklfjas f dklsjf asdklfjasdklfjdklsfjasdlkfjasdklfjas
+		
+		
+	</details>
+
+
+
+</div>
+<img src="1233.jpg" alt="image not available"></img>
+
+<video  controls autoplay>
+	<source src="movie.mp4" type="video/mp4">
+</video>
+<!--<embed src="C:\Users\Public\Videos\Sample Videos\wildlife.wmv" width="300" height="300"></embed>-->
+<audio  controls autoplay>
+	<source src="C:\Users\Public\Music\Sample Music\kalimba.mp3".mp3" type="audio/mp3">
+</audio>
+
+</body>
+</html>
