@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+</head>
+<body>
+	<form id="f1" name="f2" method="post" action="animation.html" target="down" autocomplete="on"novalidate>
+			<input type="text" name="t1"></input><br> 
+			// target : frame name (top,down)
+			// get: show all data , form elements values in url when user click the submit button
+			// post : dont show anything only show  base url.
+			// action: when user click submit button
+			// id , name : javascript,style sheet	
+
+			<input type="text" name="t2"></input> // autocomplete = on : when user enter data in 2nd time onwards automaticalliy will come. 
+			<input type="email" name="t3"></input>      
+			// check email format only when not add novalidate attribute in forms
+			<input type="number" value="t4"></input>	// number only		
+			<input type="submit" value="click page"></input>			
+	</form>
+</body>
+</html>
