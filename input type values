@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+</head>
+<body>
+	<form id="f1" name="f2" method="get" action="animation.html" target="down" autocomplete="on"novalidate>
+			<input type="text" name="t1"></input><br> 
+			<!--// target : frame name (top,down)
+			// get: show all data , form elements values in url when user click the submit button
+			// post : dont show anything only show  base url.
+			// action: when user click submit button
+			// id , name : javascript,style sheet	
+		-->
+			<input type="text" name="t2" autofocus></input> 
+			<!--// autocomplete = on : when user enter data in 2nd time onwards automaticalliy will come. -->
+			<input type="email" name="t3"></input>      
+			<!--// check email format only when not add novalidate attribute in forms-->
+			<input type="number" value="t4"></input>	<!--// number only		-->
+			<input type="submit" value="click mugil page"></input>			
+
+
+			<input type="color"> <!-- html 5 only -->
+			<input type="date">  <!-- html 5 only -->
+			<input type="datetime-local">  <!-- html 5 only -->
+
+			<input type="hidden" name="h1" value="gowthaman">
+			<input type="image" src="555.png" alt="Submit" width="48" height="48">  <!-- goto form action -->
+
+			<input type="month">  <!-- month and year -->
+			Select a time: <input type="time" name="usr_time">
+
+			<input type="url">
+			<input type="week"> <!-- which week from the begining of the year -->
+	</form>
+</body>
+</html>
