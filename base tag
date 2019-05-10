@@ -1,0 +1,14 @@
+<!-- no need to give full path , only give to image name(filename) -->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<!-- <base href="C:\Users\admin\Desktop\rutesh varun\images\"> -->
+	<!-- <base href="../rutesh varun/images/"> -->
+	<base href="..\rutesh varun\images">
+</head>
+<body>
+<img src="1.jpg"/>
+</body>
+</html>
