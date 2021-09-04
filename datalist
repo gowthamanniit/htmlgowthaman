@@ -1,0 +1,11 @@
+<form action="/action_page.php">
+  <input list="browse" name="browser">
+  <datalist id="browse">
+    <option value="Internet Explorer">
+    <option value="Firefox">
+    <option value="Chrome">
+    <option value="Opera">
+    <option value="Safari">
+  </datalist>
+  <input type="submit">
+</form>
