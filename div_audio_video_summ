@@ -34,7 +34,7 @@ dsklfjdas fdskljf dasklfjdas fjdasklfasdfdjasfjdklsf dsklfj dskfjdklsfjdsklfjdas
 </div>
 <img src="1233.jpg" alt="image not available"></img>
 
-<video  controls autoplay>
+<video  controls autoplay muted>
 	<source src="movie.mp4" type="video/mp4">
 </video>
 <!--<embed src="C:\Users\Public\Videos\Sample Videos\wildlife.wmv" width="300" height="300"></embed>-->
